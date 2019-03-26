@@ -1,0 +1,23 @@
+{
+  "name": "tianguis",
+  "version": "1.0.0",
+  "description": "online store",
+  "main": "Fayuca.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpatino927/Tianguis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpatino927/Tianguis/issues"
+  },
+  "homepage": "https://github.com/jpatino927/Tianguis#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  }
+}
